@@ -21,4 +21,4 @@
    3. [Repetitions](https://cses.fi/problemset/task/1069)
    4. [Code Word Transition]()
    5. [Grand Garden]()
-7. You have to submit a GitHub repository and upload your solution codes to all these problems. Mark the repository as private and share it with @Anish-aak, @brobat6 and @Utkarsh-UTK.
+7. You have to submit a GitHub repository and upload your solution codes to all these problems. Mark the repository as private and share it with [Anish-aak](https://github.com/Anish-aak), [brobat6](https://github.com/brobat6) and [Utkarsh-UTK](https://github.com/Utkarsh-UTK).
