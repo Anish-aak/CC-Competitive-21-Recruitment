@@ -23,4 +23,4 @@
    4. Password Encryption
    5. Manish and Manisha
 > The non hyperlinked problems are available on the Codeforces group (register for the "Recruitments Task #1" contest to access them).
-7. You have to submit a GitHub repository and upload your solution codes to all these problems. Mark the repository as **private** and share it with all of these accounts: [Anish-aak](https://github.com/Anish-aak), [brobat6](https://github.com/brobat6) and [Utkarsh-UTK](https://github.com/Utkarsh-UTK).
+7. You have to submit a GitHub repository and upload your solution codes to all these problems. Mark the repository as **private** and add all of the following accounts as collaborators: [Anish-aak](https://github.com/Anish-aak), [brobat6](https://github.com/brobat6) and [Utkarsh-UTK](https://github.com/Utkarsh-UTK).
